@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## github pages + prose.io as simple blog
 
 You can use the [editor on GitHub](https://github.com/jacy/jacy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
